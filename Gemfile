@@ -69,3 +69,7 @@ end
   gem 'rack-cors'
 
   gem 'faker'
+
+  gem 'webpacker'
+
+  gem 'react-rails'

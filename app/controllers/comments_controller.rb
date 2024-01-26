@@ -13,7 +13,7 @@ class CommentsController < ApplicationController
   def new
     @comment = @feedback.comments.new
   end
-
+  
   # GET /comments/1/edit
   def edit
   end
